@@ -1,0 +1,14 @@
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environment
+.env
+.cache
+google-services.json
+
+# Virtual environment (if you have one)
+venv/
+env/
