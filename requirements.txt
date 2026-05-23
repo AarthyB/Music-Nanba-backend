@@ -5,3 +5,5 @@ requests
 spotipy
 python-dotenv
 flask-cors
+ytmusicapi
+gunicorn

@@ -6,6 +6,7 @@ import json
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from dotenv import load_dotenv
+from ytmusicapi import YTMusic
 
 load_dotenv()
 
@@ -22,8 +23,6 @@ SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
 Youtube_URL = "https://www.googleapis.com/youtube/v3/search"
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 OPENAI_MODEL = "gpt-4o-mini" 
-
-from ytmusicapi import YTMusic
 
 ytmusic = YTMusic()
 
