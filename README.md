@@ -99,7 +99,7 @@ MusicNanba/
 └── ...                     # Backend modules and API handlers
 ```
 
-> The Android project source is not included in this repo. The compiled APK is available in [Releases](https://github.com/AarthyB/MusicNanba-backend/releases).
+> The Android project source is not included in this repo. The compiled APK is available in [Releases](https://github.com/AarthyB/Music-Nanba-backend/releases).
 
 ---
 
